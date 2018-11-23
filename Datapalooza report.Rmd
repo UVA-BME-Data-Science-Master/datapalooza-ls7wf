@@ -1,0 +1,25 @@
+---
+title: "Datapalooza Report"
+author: "Lynette Sequeira"
+date: "November 19, 2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# "Against 'Raw Data' - Relational Ethics and the Humanness of Data"
+
+I attended the seminar entitled "Against Raw Data - Relational Ethics and the Humanness of Data." The speakers were Samuel Lengen and Jarrett Zigon.
+
+The first part of this seminar began on discussing the two primary ways to approach ethics in the realm of data science. According to the speakers, one can take a rules or principles based approach - the main benefit of this is that this protects institutions from litigation because it is more direct and can remain "safe" in terms of not doing the wrong thing as defined in a legal sense. However, in an ethical realm, strict rules and/or principles are generally not extremely beneficial to deal with the issues that are notoriously in "gray" areas of decision making. Thus, the seminar speakers argued for individuals to take a more relational or interpretive approach to ethics in a data science realm. 
+
+Another starting point to this discussion questioned the nature of "raw data." Frequently, in contemporary sceintific society, we consider "raw" data to be absolutely objective and unbiased (as opposed to analyzed data, where scientists often realize that the analytical techniques may create biases in the data). In this discussion, the leaders challenged the notion that raw data is completely unbiased by asserting that everything - from the measuring techniques to sample selection - can make raw data biased. They argued that all data, raw or analyzed, has some degree of bias. 
+
+Therefore, as we talked about in this conversation on ethics, as scientists, we can consider data as "raw," however, we must be careful about the conclusions we draw about the data. Specifically, thinking of data as "raw" should not prevent us from asking where data came from or how it was collected (especially because even "raw" data traditionally comes with a prior set of interpretations). Some of the biases that we should be aware of when analyzing data include selection bias and considering who/what was collected, and the precision of the data that was collected. Another consideration for the data science topic of machine learning specifically is for machine learning - the seminar speakers spoke about how - in order to draw conclusions - it is important to obtain ALL data. Since this is usually not the case, the conclusions made from these strategies cannot be considered as completely accurate. 
+
+As I mentioned, the seminar speakers additionally talked about "relational ethics." As opposed to principles/rule based ethics, this type of ethics approach does not have strict guidelines that tells individuals what is right or wrong. In contrast, relational ethics involves a search for justice and fairness within human interaction. Personally, I was particularly interested in this topic of the seminar (and actually signed up for the ethics portion, because I felt that it would be more relevant to my future career), because I felt that this was very relevant to my future work in a healthcare realm. I have recently been interviewing for medical school and one of the types of questions we have to prepare to is related to ethics. Many times, I think that doctors and other members of the healthcare team consider ethics from a black and white perspective - which is more analagous to the "rule-based" approach to ethics that the speakers of the seminar argue against. Therefore, I actually talked to the speaker of the seminar after his talk about this ethics-based approach and learned that it has actually been argued for in its implementation in a healthcare realm (which is even related to bioinformatics and applications to data science in a healthcare field). 
+
+In summation, "raw" data leaves the impression that data is objectively true, which is not accurate. Again, scientists must consider how data is collected. Furthermore, from an ethics perspective, it is often better to consider the ethics of data science from a relational as oppsoed to "back and white" perspective. This is important because ethical dilemmas are inherently not "black and white" and rule/principles based approaches would imply. Thus, a relational and interactional approach is much better to address data science ethics. 
+
